@@ -31,9 +31,3 @@ I'm an experienced programmer with proficiency in several programming languages 
 
 - **Stack**: Full stack development using Express, Next.js, MongoDB, and Node.js.
 
-## Current Projects
-
-- **Disassembler**: A project in development using C++.
-- **Specialized Discord Project**: Working on a project focused on enhancing the Discord experience.
-
-Thank you for visiting my profile!
