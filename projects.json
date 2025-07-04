@@ -1,0 +1,14 @@
+[
+  {
+      title: "Aqua Web OS",
+      description: "A Web Based Operating System",
+      image: "https://github.com/7snDev/AquaOS_Web/blob/main/icons/AquaOS.png?raw=true",
+      url: "https://7sndev.github.io/AquaOS_Web/"
+    },
+    {
+      title: "AquaUI",
+      description: "A Library for GUI Apps made with C++ & SDL2",
+      image: "https://github.com/7snDev/AquaUI/blob/main/icon/logo.png?raw=true",
+      url: "https://github.com/7snDev/AquaUI"
+    }
+]
