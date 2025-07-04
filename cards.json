@@ -1,9 +1,9 @@
 [
-  ["Programming Languages", "/Lang.png", ["Python | JavaScript | C++"]],
-  ["Web | Mobile Dev", "/web.png", ["HTML | CSS | JS", "React.js | Next.js", "FastAPI | Express.js", "React Native | Flutter"]],
-  ["AI | Data Analysis", "/ai.png", ["TensorFlow | Keras | OpenCV", "Pandas | NumPy | Matplotlib | Seaborn"]],
-  ["Game Dev", "/game.png", ["Godot | Unity"]],
-  ["Graphics", "/graphic.png", ["SDL2"]],
-  ["Automation | Bots", "/auto.png", ["AutoPyGUI | WinAPI", "Requests | Playwright | YT_DLP", "Discord.js | Mineflayer"]],
-  ["Design", "/design.png", ["GIMP | Canva | Krita"]]
+  ["Programming Languages", "https://github.com/7snDev/7snDev/blob/main/Icons/Lang.png?raw=true", ["Python | JavaScript | C++"]],
+  ["Web | Mobile Dev", "https://github.com/7snDev/7snDev/blob/main/Icons/web.png?raw=true", ["HTML | CSS | JS", "React.js | Next.js", "FastAPI | Express.js", "React Native | Flutter"]],
+  ["AI | Data Analysis", "https://github.com/7snDev/7snDev/blob/main/Icons/ai.png?raw=true", ["TensorFlow | Keras | OpenCV", "Pandas | NumPy | Matplotlib | Seaborn"]],
+  ["Game Dev", "https://github.com/7snDev/7snDev/blob/main/Icons/game.png?raw=true", ["Godot | Unity"]],
+  ["Graphics", "https://github.com/7snDev/7snDev/blob/main/Icons/graphic.png?raw=true", ["SDL2"]],
+  ["Automation | Bots", "https://github.com/7snDev/7snDev/blob/main/Icons/auto.png?raw=true", ["AutoPyGUI | WinAPI", "Requests | Playwright | YT_DLP", "Discord.js | Mineflayer"]],
+  ["Design", "https://github.com/7snDev/7snDev/blob/main/Icons/design.png?raw=true", ["GIMP | Canva | Krita"]]
 ]
