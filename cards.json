@@ -1,0 +1,9 @@
+[
+  ["Programming Languages", "/Lang.png", ["Python | JavaScript | C++"]],
+  ["Web | Mobile Dev", "/web.png", ["HTML | CSS | JS", "React.js | Next.js", "FastAPI | Express.js", "React Native | Flutter"]],
+  ["AI | Data Analysis", "/ai.png", ["TensorFlow | Keras | OpenCV", "Pandas | NumPy | Matplotlib | Seaborn"]],
+  ["Game Dev", "/game.png", ["Godot | Unity"]],
+  ["Graphics", "/graphic.png", ["SDL2"]],
+  ["Automation | Bots", "/auto.png", ["AutoPyGUI | WinAPI", "Requests | Playwright | YT_DLP", "Discord.js | Mineflayer"]],
+  ["Design", "/design.png", ["GIMP | Canva | Krita"]]
+]
