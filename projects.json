@@ -16,5 +16,11 @@
       "description": "A Website For My GUI Library - AquaUI",
       "image": "https://github.com/7snDev/AquaUI/blob/main/icon/logo.png?raw=true",
       "url": "https://7sndev.github.io/AquaUI-Website/"
+    },
+    {
+      "title": "Atom",
+      "description": "A Header Only Library For GUI Apps Using WebView Its Like Electron But For C++ & Its Use Less Memory",
+      "image": "https://github.com/7snDev/atom/blob/main/icon/image.png?raw=true",
+      "url": "https://github.com/7snDev/atom/"
     }
 ]
