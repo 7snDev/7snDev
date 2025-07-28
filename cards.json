@@ -2,7 +2,7 @@
   ["Programming Languages", "https://github.com/7snDev/7snDev/blob/main/Icons/Lang.png?raw=true", ["Python | JavaScript | C++"]],
   ["Web | Mobile", "https://github.com/7snDev/7snDev/blob/main/Icons/web.png?raw=true", ["HTML | CSS | JS", "React.js | Next.js", "FastAPI | Express.js", "React Native | Flutter"]],
   ["AI | Data Analysis", "https://github.com/7snDev/7snDev/blob/main/Icons/ai.png?raw=true", ["TensorFlow | Keras | Scikit-Learn | OpenCV", "Pandas | NumPy | Matplotlib | Seaborn"]],
-  ["Game", "https://github.com/7snDev/7snDev/blob/main/Icons/game.png?raw=true", ["Godot | Unity"]],
+  ["Game", "https://github.com/7snDev/7snDev/blob/main/Icons/game.png?raw=true", ["Godot"]],
   ["Graphics", "https://github.com/7snDev/7snDev/blob/main/Icons/graphic.png?raw=true", ["SDL2"]],
   ["Desktop", "https://github.com/7snDev/7snDev/blob/main/Icons/Desktop.png?raw=true", ["Electron | WebView.h | Tkinter"]],
   ["Automation | Bots", "https://github.com/7snDev/7snDev/blob/main/Icons/auto.png?raw=true", ["PyAutoGUI | WinAPI | X11", "Requests | Playwright | YT_DLP", "Discord.js | Mineflayer"]],
