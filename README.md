@@ -4,6 +4,7 @@
 ## 🔧 About Me
 - 🌐 Website: [my-web-7sndevs-projects.vercel.app](https://my-web-7sndevs-projects.vercel.app/)
 - 🧾 GitHub: [7snDev](https://github.com/7snDev)
+- Discord: 7snb
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7snDev&layout=compact&theme=dark&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
