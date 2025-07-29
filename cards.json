@@ -1,5 +1,5 @@
 [
-  ["My Accounts", "https://github.com/7snDev/7snDev/blob/main/Icons/chat.png?row=true", ["GitHub: 7sndev", "Discord: 7snb"]],
+  ["My Accounts", "https://github.com/7snDev/7snDev/blob/main/Icons/chat.png?raw=true", ["GitHub: 7sndev", "Discord: 7snb"]],
   ["Programming Languages", "https://github.com/7snDev/7snDev/blob/main/Icons/Lang.png?raw=true", ["Python | JavaScript | C++"]],
   ["Web | Mobile", "https://github.com/7snDev/7snDev/blob/main/Icons/web.png?raw=true", ["HTML | CSS | JS", "React.js | Next.js", "FastAPI | Express.js", "React Native | Flutter"]],
   ["AI | Data Analysis", "https://github.com/7snDev/7snDev/blob/main/Icons/ai.png?raw=true", ["TensorFlow | Keras | Scikit-Learn | OpenCV", "Pandas | NumPy | Matplotlib | Seaborn"]],
