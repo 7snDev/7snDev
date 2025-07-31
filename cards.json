@@ -5,7 +5,7 @@
   ["AI | Data Analysis", "https://github.com/7snDev/7snDev/blob/main/Icons/ai.png?raw=true", ["TensorFlow | Keras | Scikit-Learn | OpenCV", "Pandas | NumPy | Matplotlib | Seaborn"]],
   ["Game", "https://github.com/7snDev/7snDev/blob/main/Icons/game.png?raw=true", ["Godot"]],
   ["Graphics", "https://github.com/7snDev/7snDev/blob/main/Icons/graphic.png?raw=true", ["SDL2"]],
-  ["Network", "https://github.com/7snDev/7snDev/blob/main/Icons/Network.png?raw=true", ["Socket"]],
+  ["Network", "https://github.com/7snDev/7snDev/blob/main/Icons/web.png?raw=true", ["Socket"]],
   ["Desktop", "https://github.com/7snDev/7snDev/blob/main/Icons/Desktop.png?raw=true", ["Electron | WebView.h | Tkinter"]],
   ["Automation | Bots", "https://github.com/7snDev/7snDev/blob/main/Icons/auto.png?raw=true", ["PyAutoGUI | WinAPI | X11", "Requests | Playwright | YT_DLP", "Discord.js | Mineflayer"]],
   ["Design", "https://github.com/7snDev/7snDev/blob/main/Icons/design.png?raw=true", ["GIMP | Canva | Krita"]]
