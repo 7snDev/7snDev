@@ -1,7 +1,6 @@
 # Hi 👋, I'm Hasan
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&width=435&lines=Developer;Full+Stack;Mobile;AI;Data+Analysis;Automation;Web+Scraping;Bots;Graphics;Games;Designer)](https://git.io/typing-svg)
 
-- 🌐 Website: [vercel.app](https://my-web-7sndevs-projects.vercel.app/)
 - 🧾 GitHub: [7snDev](https://github.com/7snDev)
 
 ## 📊 GitHub Stats
