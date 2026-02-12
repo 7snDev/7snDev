@@ -4,5 +4,5 @@
 - 🧾 GitHub: [7snDev](https://github.com/7snDev)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7snDev&layout=compact&theme=dark&langs_count=15)
+![Top Langs](./profile/top-langs.svg)
 ![Stats](./profile/stats.svg)
