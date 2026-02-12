@@ -13,7 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0
+      
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -21,13 +23,13 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+      
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-          git pull --rebase
-          git push
+          git pull --rebase origin main
+          git push origin main
 
